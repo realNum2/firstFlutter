@@ -11,7 +11,7 @@ class HabitList extends StatelessWidget {
         SizedBox(width: 24),
         Text('Читать 30 минут', style: TextStyle(color: Colors.white)),
         Text('Зарядка', style: TextStyle(color: Colors.white)),
-        Text('Пить воду', style: TextStyle(color: Colors.white)),
+        Text('Drink water', style: TextStyle(color: Colors.white)),
       ],
     );
   }
